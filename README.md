@@ -36,7 +36,7 @@ Solano, and Napa show real, sustained per-capita fiscal decline over the full 21
 [California State Controller's Office — Local Government Financial Data](https://lab.data.ca.gov)
 
 ## View the Dashboard
-[Live interactive dashboard on Tableau Public](your-tableau-public-link-here)
+[Live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/karen.wu6142/viz/CACountyFiscalTrendReliabilityAnalysis/CaliforniaCountyFiscalTrends2003-2024SeparatingSignalfromNoise)
 
 ## Files
 - `sql/trend_analysis_queries.sql` — full SQL pipeline from raw data to final ranking
