@@ -1,4 +1,6 @@
 # California County Fiscal Trend Reliability Analysis
+**Author:** Karen Wu
+**Date:** June 2026
 
 ## Overview
 A follow-up to my first county finance project, this analysis goes deeper by examining 
